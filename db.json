@@ -1,4 +1,5 @@
-[{
+{
+  "products": [{
   "id": 1,
   "title": "vel sem sed sagittis nam",
   "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
@@ -1099,3 +1100,4 @@
   ],
   "quantity": 10
 }]
+}
